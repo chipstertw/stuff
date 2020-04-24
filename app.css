@@ -1,0 +1,47 @@
+* {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	font-size: 2rem;
+}
+
+.box {
+	height: 100px;
+	width: 100px;
+}
+
+.box2:hover {
+	height: 100px;
+	width: 100px;
+}
+
+section {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.red {
+	background-color: red;
+}
+.orange {
+	background-color: orange;
+}
+.yellow {
+	background-color: yellow;
+}
+.green {
+	background-color: green;
+}
+.blue {
+	background-color: blue;
+}
+.purple {
+	background-color: purple;
+}
+
+.bg {
+	background-color: black;
+}
